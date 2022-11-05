@@ -5,5 +5,4 @@ slide.init();
 slide.changeSlide(2);
 slide.activeNextSlide();
 slide.addArrow(".prev", ".next");
-
-console.log(slide);
+slide.addControl();
